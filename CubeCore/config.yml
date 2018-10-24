@@ -1,0 +1,10 @@
+    #Gracias por descargar mi plugin :D
+Config:
+    ScoreBoard:
+      title: '&3&lCube&e&lCore'
+      wait:
+      - '&7Nombre:'
+      - '&7%player_name%'
+      - ''
+      - '&espigot.org'
+    Drop-Items: true

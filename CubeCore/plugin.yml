@@ -1,0 +1,11 @@
+main: carlos2025.MystiCubPvP.MystiCub
+author: carlos2025
+version: 1.1.4
+name: CubeCore
+softdepend: [PlaceholderAPI]
+
+commands:
+  mystery:
+    description: Scooby dooby doo, where are you?
+  cub:
+    description: Este comando es para ver la lista de comandos

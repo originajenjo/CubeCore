@@ -1,0 +1,24 @@
+Messages:
+    Reload: " &aEl plugin a sido recargado correctamente"
+    Nopermiso: " &aNo tienes permiso para usar este comando!"
+    Help:
+     - "&6-------------- CubeCore --------------"
+     - ""
+     - "&aGracias por descargar &3CubeCore &a%player_name%"
+     - "&a/cub help - Para ver la lista de comandos"
+     - "&a/cub pvp - Para abrir el menu de items para pvp"
+     - "&a/cub potis - Para abrir el inventario de pociones"
+     - "&a/cub guardar - Para guardar los kits"
+     - "&a/cub kills - Verifica las kills que has hecho"
+     - "&a/cub reload - Recarga la nueva configuracion del plugin"
+     - ""
+     - "&6-------------- CubeCore --------------"
+    Kills-None:
+     - "&b&m                     &e&lKills&b&m                     "
+     - "&7&lJugadores Asesinados: &cNinguno :("
+     - "&b&m                     &e&lKills&b&m                     "
+    Kills-Cantidad:
+     - "&b&m                     &e&lKills&b&m                     "
+     - "&7&lJugadores Asesinados: %kills%"
+     - "&b&m                     &e&lKills&b&m                     "
+    Craft-Complete: "&4No puedes craftear esto!"
